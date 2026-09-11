@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:9.39.2"],\
           ["expect", "npm:29.7.0"],\
           ["jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
-          ["prettier", "npm:3.8.1"],\
+          ["prettier", "npm:3.9.6"],\
           ["tstyche", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:2.1.1"],\
           ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"],\
           ["typescript-eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:8.54.0"]\
@@ -3360,7 +3360,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:9.39.2"],\
           ["expect", "npm:29.7.0"],\
           ["jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
-          ["prettier", "npm:3.8.1"],\
+          ["prettier", "npm:3.9.6"],\
           ["tstyche", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:2.1.1"],\
           ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"],\
           ["typescript-eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:8.54.0"]\
@@ -8138,10 +8138,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:3.8.1", {\
-        "packageLocation": "./.yarn/unplugged/prettier-npm-3.8.1-04022a855f/node_modules/prettier/",\
+      ["npm:3.9.6", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.9.6-ad164eec07/node_modules/prettier/",\
         "packageDependencies": [\
-          ["prettier", "npm:3.8.1"]\
+          ["prettier", "npm:3.9.6"]\
         ],\
         "linkType": "HARD"\
       }]\
