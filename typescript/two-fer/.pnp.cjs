@@ -37,7 +37,7 @@ const RAW_RUNTIME_STATE =
           ["expect", "npm:29.7.0"],\
           ["jest", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:29.7.0"],\
           ["prettier", "npm:3.8.1"],\
-          ["tstyche", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:2.1.1"],\
+          ["tstyche", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:7.2.5"],\
           ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"],\
           ["typescript-eslint", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:8.54.0"]\
         ],\
@@ -3361,7 +3361,7 @@ const RAW_RUNTIME_STATE =
           ["expect", "npm:29.7.0"],\
           ["jest", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:29.7.0"],\
           ["prettier", "npm:3.8.1"],\
-          ["tstyche", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:2.1.1"],\
+          ["tstyche", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:7.2.5"],\
           ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"],\
           ["typescript-eslint", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:8.54.0"]\
         ],\
@@ -8913,17 +8913,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["tstyche", [\
-      ["npm:2.1.1", {\
-        "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/tstyche-npm-2.1.1-5d85a48d5c-10.zip/node_modules/tstyche/",\
+      ["npm:7.2.5", {\
+        "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/tstyche-npm-7.2.5-53d6d99bb2-10.zip/node_modules/tstyche/",\
         "packageDependencies": [\
-          ["tstyche", "npm:2.1.1"]\
+          ["tstyche", "npm:7.2.5"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:2.1.1", {\
-        "packageLocation": "./.yarn/__virtual__/tstyche-virtual-14b504d732/9/runner/cache/others/berry/cache/tstyche-npm-2.1.1-5d85a48d5c-10.zip/node_modules/tstyche/",\
+      ["virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:7.2.5", {\
+        "packageLocation": "./.yarn/__virtual__/tstyche-virtual-969c4f2b33/9/runner/cache/others/berry/cache/tstyche-npm-7.2.5-53d6d99bb2-10.zip/node_modules/tstyche/",\
         "packageDependencies": [\
-          ["tstyche", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:2.1.1"],\
+          ["tstyche", "virtual:c4ba53710b8cd1a8b8f1ed6f0365bf0b12459c70f5e47761b9115b165c30bd48234b806fa7b3e168bad1880b272c6fde1a0e011ee2c2b399b9866140942fa4c3#npm:7.2.5"],\
           ["@types/typescript", null],\
           ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"]\
         ],\
