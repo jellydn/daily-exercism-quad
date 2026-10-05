@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@jest/globals", "npm:29.7.0"],\
           ["@types/node", "npm:22.7.9"],\
           ["babel-jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
-          ["core-js", "npm:3.38.1"],\
+          ["core-js", "npm:3.50.0"],\
           ["eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:9.39.2"],\
           ["expect", "npm:29.7.0"],\
           ["jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
@@ -3356,7 +3356,7 @@ const RAW_RUNTIME_STATE =
           ["@jest/globals", "npm:29.7.0"],\
           ["@types/node", "npm:22.7.9"],\
           ["babel-jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
-          ["core-js", "npm:3.38.1"],\
+          ["core-js", "npm:3.50.0"],\
           ["eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:9.39.2"],\
           ["expect", "npm:29.7.0"],\
           ["jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
@@ -5094,13 +5094,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["core-js", [\
-      ["npm:3.38.1", {\
-        "packageLocation": "./.yarn/unplugged/core-js-npm-3.38.1-5a2a3b88ee/node_modules/core-js/",\
-        "packageDependencies": [\
-          ["core-js", "npm:3.38.1"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.43.0", {\
         "packageLocation": "./.yarn/unplugged/core-js-npm-3.43.0-7859dbc9f9/node_modules/core-js/",\
         "packageDependencies": [\
@@ -5112,6 +5105,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/core-js-npm-3.48.0-0a48805efd/node_modules/core-js/",\
         "packageDependencies": [\
           ["core-js", "npm:3.48.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:3.50.0", {\
+        "packageLocation": "./.yarn/unplugged/core-js-npm-3.50.0-c518f629d4/node_modules/core-js/",\
+        "packageDependencies": [\
+          ["core-js", "npm:3.50.0"]\
         ],\
         "linkType": "HARD"\
       }]\
