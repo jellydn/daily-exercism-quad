@@ -1480,10 +1480,10 @@ __metadata:
     eslint: "npm:^9.12.0"
     expect: "npm:^29.7.0"
     jest: "npm:^29.7.0"
-    prettier: "npm:^3.3.3"
+    prettier: "npm:^3.9.10"
     tstyche: "npm:^2.1.1"
     typescript: "npm:~5.6.3"
-    typescript-eslint: "npm:^8.71.1"
+    typescript-eslint: "npm:^8.10.0"
   languageName: unknown
   linkType: soft
 
@@ -5092,12 +5092,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.3.3":
-  version: 3.8.1
-  resolution: "prettier@npm:3.8.1"
+"prettier@npm:^3.9.10":
+  version: 3.9.10
+  resolution: "prettier@npm:3.9.10"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 10/3da1cf8c1ef9bea828aa618553696c312e951f810bee368f6887109b203f18ee869fe88f66e65f9cf60b7cb1f2eae859892c860a300c062ff8ec69c381fc8dbd
+  checksum: 10/5d0118add4b44eb9d50c114f5c525451cc92be9da300ad0552787472535a3f23884baed3223d9b577bb7d1152eb58aeccfcc2b4541c0cf2274c0b4d328e36834
   languageName: node
   linkType: hard
 
@@ -5825,7 +5825,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript-eslint@npm:^8.0.1, typescript-eslint@npm:^8.71.1":
+"typescript-eslint@npm:^8.0.1, typescript-eslint@npm:^8.10.0":
   version: 8.71.1
   resolution: "typescript-eslint@npm:8.71.1"
   dependencies:
