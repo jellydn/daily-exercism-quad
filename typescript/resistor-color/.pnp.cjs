@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@exercism/eslint-config-typescript", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:0.8.0"],\
           ["@exercism/typescript-resistor-color", "workspace:."],\
           ["@jest/globals", "npm:29.7.0"],\
-          ["@types/node", "npm:22.7.9"],\
+          ["@types/node", "npm:26.6.5"],\
           ["babel-jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
           ["core-js", "npm:3.38.1"],\
           ["eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:9.39.2"],\
@@ -3356,7 +3356,7 @@ const RAW_RUNTIME_STATE =
           ["@exercism/eslint-config-typescript", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:0.8.0"],\
           ["@exercism/typescript-resistor-color", "workspace:."],\
           ["@jest/globals", "npm:29.7.0"],\
-          ["@types/node", "npm:22.7.9"],\
+          ["@types/node", "npm:26.6.5"],\
           ["babel-jest", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:29.7.0"],\
           ["core-js", "npm:3.38.1"],\
           ["eslint", "virtual:2d640d6ba2b821002107f06f78a1485820b094189d1ef19ad44c5ff0f2fdce359bd4cbd4df53acd4935cdd148b53377f3f8042cc968cad250bfa4c1078ef77eb#npm:9.39.2"],\
@@ -3952,19 +3952,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:22.7.9", {\
-        "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.7.9-03392d8185-10.zip/node_modules/@types/node/",\
-        "packageDependencies": [\
-          ["@types/node", "npm:22.7.9"],\
-          ["undici-types", "npm:6.19.8"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:25.2.0", {\
         "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.2.0-b623340683-10.zip/node_modules/@types/node/",\
         "packageDependencies": [\
           ["@types/node", "npm:25.2.0"],\
           ["undici-types", "npm:7.16.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:26.6.5", {\
+        "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/@types-node-npm-26.6.5-963b302fe2-10.zip/node_modules/@types/node/",\
+        "packageDependencies": [\
+          ["@types/node", "npm:26.6.5"],\
+          ["undici-types", "npm:8.9.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -9164,17 +9164,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:6.19.8", {\
-        "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/undici-types-npm-6.19.8-9f12285b7a-10.zip/node_modules/undici-types/",\
-        "packageDependencies": [\
-          ["undici-types", "npm:6.19.8"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:7.16.0", {\
         "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.16.0-0e23b08124-10.zip/node_modules/undici-types/",\
         "packageDependencies": [\
           ["undici-types", "npm:7.16.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:8.9.0", {\
+        "packageLocation": "../../../../../../../../runner/cache/others/berry/cache/undici-types-npm-8.9.0-c5953f392d-10.zip/node_modules/undici-types/",\
+        "packageDependencies": [\
+          ["undici-types", "npm:8.9.0"]\
         ],\
         "linkType": "HARD"\
       }]\
