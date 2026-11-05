@@ -1476,7 +1476,7 @@ __metadata:
     "@jest/globals": "npm:^29.7.0"
     "@types/node": "npm:~22.7.6"
     babel-jest: "npm:^29.7.0"
-    core-js: "npm:~3.38.1"
+    core-js: "npm:~3.51.0"
     eslint: "npm:^9.12.0"
     expect: "npm:^29.7.0"
     jest: "npm:^29.7.0"
@@ -2651,17 +2651,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.48.0":
-  version: 3.48.0
-  resolution: "core-js@npm:3.48.0"
-  checksum: 10/08bb3cc9b3225b905e72370c18257a14bb5563946d9eb7496799e0ee4f13231768b980ffe98434df7dbd0f8209bd2c19519938a2fa94846b2c82c2d5aa804037
-  languageName: node
-  linkType: hard
-
-"core-js@npm:~3.38.1":
-  version: 3.38.1
-  resolution: "core-js@npm:3.38.1"
-  checksum: 10/3c25fdf0b2595ed37ceb305213a61e2cf26185f628455e99d1c736dda5f69e2de4de7126e6a1da136f54260c4fcc982c4215e37b5a618790a597930f854c0a37
+"core-js@npm:^3.48.0, core-js@npm:~3.51.0":
+  version: 3.51.0
+  resolution: "core-js@npm:3.51.0"
+  checksum: 10/e2de0817bd27b8456e97f28d7752e96a519be9e776afd797d8404883f9ee7d274312ffbfdd883ae8f5fad32ab78267f2a05d17a7650bd3233feb093bbc249562
   languageName: node
   linkType: hard
 
@@ -5350,12 +5343,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.3.5, semver@npm:^7.7.3":
-  version: 7.8.5
-  resolution: "semver@npm:7.8.5"
+"semver@npm:^7.3.5":
+  version: 7.8.6
+  resolution: "semver@npm:7.8.6"
   bin:
     semver: bin/semver.js
-  checksum: 10/9b01d2ff11e6e4a4539b7ca3c5f280c8704cb397a28504469f2ed4f00ad2194748d756647362a9712fff30984d15772ab7f083108c2fb508e2096ae9e708f22c
+  checksum: 10/76fd62a781a9c58464e4d4b1b9c99c404063d8133fff8a0753e66b1bd826bfb720d843664e7ab1268c0fb7134d04df9f3b8788eb2f1000c509648e0eeac03921
   languageName: node
   linkType: hard
 
@@ -5365,6 +5358,15 @@ __metadata:
   bin:
     semver: bin/semver.js
   checksum: 10/26bdc6d58b29528f4142d29afb8526bc335f4fc04c4a10f2b98b217f277a031c66736bf82d3d3bb354a2f6a3ae50f18fd62b053c4ac3f294a3d10a61f5075b75
+  languageName: node
+  linkType: hard
+
+"semver@npm:^7.7.3":
+  version: 7.8.5
+  resolution: "semver@npm:7.8.5"
+  bin:
+    semver: bin/semver.js
+  checksum: 10/9b01d2ff11e6e4a4539b7ca3c5f280c8704cb397a28504469f2ed4f00ad2194748d756647362a9712fff30984d15772ab7f083108c2fb508e2096ae9e708f22c
   languageName: node
   linkType: hard
 
@@ -5880,9 +5882,9 @@ __metadata:
   linkType: hard
 
 "undici@npm:^8.4.1":
-  version: 8.12.3
-  resolution: "undici@npm:8.12.3"
-  checksum: 10/8a238fd928ec1791b76b6b1df512eb6b77bdf51eb609d5b2248c3d8545100e2bdeb4d1695cf1594456dd9d085a6a51069ed42be231e56b270f3ee2191bc6517a
+  version: 8.12.4
+  resolution: "undici@npm:8.12.4"
+  checksum: 10/f99eb6c2351b933bf9d6e95aa34361af9be9edc6bfe34e25fca1f1cd8aeae5e547850cd317d6e0d7189267bb9dbfd6e3400869156e43e095d151b0d66471bf97
   languageName: node
   linkType: hard
 
